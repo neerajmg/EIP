@@ -3,7 +3,7 @@ print(score)
 [0.03734615365753525, 0.9916]
 
 
-#Assignment Topics:
+# Assignment Topics:
 
 ### Convolution
 
